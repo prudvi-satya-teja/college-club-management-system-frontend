@@ -54,7 +54,7 @@ export default function Login() {
    
 
   const handleOAuth = () => {
-    window.location.href = 'http://localhost:8080/oauth2/authorization/microsoft';
+    window.location.href = 'https://aclub-campus.onrender.com/oauth2/authorization/microsoft';
   };
 
   return (
